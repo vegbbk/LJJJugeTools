@@ -1,0 +1,16 @@
+PODS:
+  - LJJTools (0.1.0)
+
+DEPENDENCIES:
+  - LJJTools (from `../`)
+
+EXTERNAL SOURCES:
+  LJJTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LJJTools: 2fd89e485e63dbe45b204afe113905b05b881e38
+
+PODFILE CHECKSUM: 4b3eebe499a2712e23fee67fad8a05dd4fcf09d9
+
+COCOAPODS: 1.9.3

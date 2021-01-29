@@ -1,0 +1,22 @@
+{
+  "name": "LJJTools",
+  "version": "0.1.0",
+  "summary": "A short description of LJJTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/vegbbk/LJJTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vegbbk": "1964147474@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/vegbbk/LJJTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LJJTools/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module LJJTools {
+  umbrella header "LJJTools-umbrella.h"
+
+  export *
+  module * { export * }
+}
